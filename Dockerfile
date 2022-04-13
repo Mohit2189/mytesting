@@ -1,2 +1,2 @@
-FROM registry.access.redhat.com/ubi8/php-74
-RUN uptime
+FROM registry.access.redhat.com/rhscl/php-70-rhel7
+RUN echo "test"
